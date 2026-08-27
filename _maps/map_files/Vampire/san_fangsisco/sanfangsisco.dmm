@@ -4682,7 +4682,6 @@
 /area/vtm/interior/glasswalker)
 "bmp" = (
 /obj/effect/decal/painting,
-/obj/effect/decal/wallpaper/red,
 /turf/closed/wall/vampwall/rich/old,
 /area/vtm/interior/chantry/basement)
 "bmu" = (
@@ -7557,8 +7556,7 @@
 /area/vtm)
 "bYV" = (
 /turf/open/floor/glass/cult{
-	desc = "A focus point for Thamaturgical rituals, Rituals are elaborate, sophisticated and codified instructions for producing set magical effects. This point must run over ley lines to have been fashioned in such a elaborate work of art";
-	name = "Thaumaturgical focus"
+	desc = null
 	},
 /area/vtm/interior/chantry/basement)
 "bZe" = (
@@ -7763,7 +7761,6 @@
 /area/vtm/interior)
 "ccu" = (
 /obj/effect/decal/painting/second,
-/obj/effect/decal/wallpaper/red,
 /turf/closed/wall/vampwall/rich/old,
 /area/vtm/interior/chantry/basement)
 "ccx" = (
@@ -80383,7 +80380,6 @@
 /area/vtm/interior/chantry/basement)
 "vHA" = (
 /obj/effect/decal/painting/third,
-/obj/effect/decal/wallpaper/red,
 /turf/closed/wall/vampwall/rich/old,
 /area/vtm/interior/chantry/basement)
 "vHC" = (
@@ -84201,10 +84197,6 @@
 	},
 /turf/open/water,
 /area/vtm/outside/forest)
-"wKm" = (
-/obj/effect/decal/wallpaper/red,
-/turf/closed/wall/vampwall/rich/old,
-/area/vtm/interior/chantry/basement)
 "wKp" = (
 /obj/machinery/door/poddoor/shutters/armory{
 	damage_deflection = 60;
@@ -132126,7 +132118,7 @@ gvX
 mUa
 wTq
 mCO
-wKm
+mCO
 vtr
 wNM
 uVD
@@ -132382,7 +132374,7 @@ hhi
 gox
 skn
 wTq
-wKm
+mCO
 htK
 hJM
 gbT
@@ -132639,7 +132631,7 @@ oKQ
 oXG
 mUa
 wTq
-wKm
+mCO
 iRZ
 gbT
 gbT
@@ -132896,7 +132888,7 @@ lTU
 vQB
 mUa
 wTq
-wKm
+mCO
 xEV
 gbT
 gbT
@@ -133410,7 +133402,7 @@ wTq
 wTq
 wTq
 wTq
-wKm
+mCO
 wUg
 gbT
 aPa
@@ -133910,21 +133902,21 @@ vDG
 hRS
 xCz
 wTq
-wKm
+mCO
 vGW
 opi
 cFf
 cFf
 wPX
 vGW
-wKm
+mCO
 vGW
 opi
 cFf
 cFf
 wPX
 vGW
-wKm
+mCO
 luZ
 gbT
 gbT
@@ -134167,21 +134159,21 @@ sov
 hRS
 gwI
 wTq
-wKm
+mCO
 ith
 ctb
 cvG
 eZv
 kiW
 ith
-wKm
+mCO
 ith
 ctb
 cvG
 eZv
 kiW
 ith
-wKm
+mCO
 iRZ
 gbT
 gbT
@@ -134424,21 +134416,21 @@ dDN
 gwI
 gwI
 wTq
-wKm
+mCO
 rcZ
 raq
 jcJ
 kiW
 raq
 aXd
-wKm
+mCO
 xLx
 raq
 jcJ
 kiW
 raq
 qPs
-wKm
+mCO
 wil
 sdS
 gbT
@@ -134681,14 +134673,14 @@ sov
 gwI
 gwI
 wTq
-wKm
+mCO
 pYb
 raq
 raq
 raq
 raq
 fRQ
-wKm
+mCO
 fRQ
 raq
 raq
@@ -134696,7 +134688,7 @@ raq
 raq
 pYb
 mCO
-wKm
+mCO
 bLa
 gMo
 tqQ
@@ -135195,7 +135187,7 @@ dvN
 dvN
 dvN
 dvN
-wKm
+mCO
 sHD
 mia
 xZr
@@ -135217,7 +135209,7 @@ mia
 uXm
 gZN
 sHD
-wKm
+mCO
 jjd
 fCi
 jjd
@@ -135709,7 +135701,7 @@ dvN
 dvN
 dvN
 dvN
-wKm
+mCO
 cNm
 nud
 xGl
@@ -135966,7 +135958,7 @@ dvN
 dvN
 dvN
 dvN
-wKm
+mCO
 sHD
 gZN
 mia
@@ -135988,7 +135980,7 @@ vXE
 vms
 mia
 sHD
-wKm
+mCO
 raq
 raq
 raq
@@ -136245,7 +136237,7 @@ mCO
 mCO
 mCO
 mCO
-wKm
+mCO
 raq
 raq
 oMh
@@ -136480,18 +136472,18 @@ dvN
 dvN
 dvN
 dvN
-wKm
+mCO
 pYb
 raq
 tOn
-wKm
+mCO
 dIu
 tjq
 raq
 raq
 ltZ
 ltZ
-wKm
+mCO
 oeP
 lfx
 aLc
@@ -136499,7 +136491,7 @@ lfx
 aLc
 lfx
 gfn
-wKm
+mCO
 jjd
 sQD
 gME
@@ -136737,18 +136729,18 @@ dvN
 dvN
 dvN
 dvN
-wKm
+mCO
 rcZ
 raq
 vby
-wKm
+mCO
 lIj
 raq
 raq
 raq
 raq
 lCj
-wKm
+mCO
 oeP
 lfx
 lfx
@@ -136756,7 +136748,7 @@ lfx
 lfx
 lfx
 hpb
-wKm
+mCO
 apG
 raq
 raq
@@ -136994,18 +136986,18 @@ dvN
 dvN
 dvN
 dvN
-wKm
+mCO
 prX
 raq
 raq
-wKm
+mCO
 bGD
 raq
 raq
 xND
 ssE
 pnU
-wKm
+mCO
 luK
 lfx
 tHl
@@ -137013,7 +137005,7 @@ tPb
 qwg
 lfx
 rYw
-wKm
+mCO
 tLU
 raq
 raq
@@ -137251,18 +137243,18 @@ dvN
 dvN
 dvN
 dvN
-wKm
+mCO
 oYZ
 raq
 raq
-wKm
+mCO
 bGD
 raq
 raq
 raq
 raq
 cih
-wKm
+mCO
 vFz
 jaC
 cmi
@@ -137270,7 +137262,7 @@ kRv
 ihh
 teo
 gfn
-wKm
+mCO
 aHC
 raq
 xwt
@@ -137508,18 +137500,18 @@ dvN
 dvN
 dvN
 dvN
-wKm
+mCO
 tOn
 xND
 raq
-wKm
+mCO
 oaI
 ihi
 raq
 raq
 raq
 qcd
-wKm
+mCO
 fHM
 lYW
 hky
@@ -137527,7 +137519,7 @@ gPg
 hky
 lPQ
 lfx
-wKm
+mCO
 vwe
 raq
 jjd
@@ -137765,18 +137757,18 @@ dvN
 dvN
 dvN
 dvN
-wKm
+mCO
 sBp
 raq
 raq
-wKm
+mCO
 oel
 raq
 hcO
 hcO
 raq
 ltZ
-wKm
+mCO
 gHF
 lYW
 hky
@@ -137784,7 +137776,7 @@ eyF
 hky
 lPQ
 gfn
-wKm
+mCO
 sQD
 raq
 ixJ
@@ -138022,7 +138014,7 @@ dvN
 dvN
 dvN
 dvN
-wKm
+mCO
 kcD
 raq
 raq
@@ -138041,7 +138033,7 @@ mCO
 mCO
 wdG
 mCO
-wKm
+mCO
 wxx
 raq
 raq
@@ -138279,7 +138271,7 @@ dvN
 dvN
 dvN
 dvN
-wKm
+mCO
 nfI
 ggc
 vEh
@@ -138290,7 +138282,7 @@ dvN
 dvN
 dvN
 dvN
-wKm
+mCO
 gCq
 cqq
 cvK
@@ -138298,7 +138290,7 @@ cbt
 lfx
 ijv
 xNH
-wKm
+mCO
 uxT
 raq
 sQD
@@ -138536,7 +138528,7 @@ dvN
 dvN
 dvN
 dvN
-wKm
+mCO
 oyQ
 bgt
 raq
@@ -138547,7 +138539,7 @@ dvN
 dvN
 dvN
 dvN
-wKm
+mCO
 hoR
 lfx
 lXo
@@ -138555,7 +138547,7 @@ ijv
 ijv
 ijv
 kVS
-wKm
+mCO
 bzu
 bzu
 bzu
@@ -138804,7 +138796,7 @@ dvN
 dvN
 dvN
 dvN
-wKm
+mCO
 uDO
 lNP
 xGO
