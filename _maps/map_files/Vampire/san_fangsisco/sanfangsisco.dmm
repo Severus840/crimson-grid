@@ -2092,12 +2092,6 @@
 /obj/structure/closet/crate,
 /turf/open/floor/plating/sidewalk/poor,
 /area/vtm/interior/supply)
-"aBY" = (
-/obj/effect/decal/cleanable/trash{
-	icon_state = "trash8"
-	},
-/turf/open/floor/plating/concrete,
-/area/vtm/interior/sewer)
 "aCi" = (
 /turf/open/floor/wood/old,
 /area/vtm/interior/jazzclub)
@@ -5290,15 +5284,6 @@
 /obj/structure/chair/office,
 /turf/open/floor/city/plating_mono,
 /area/vtm/interior/endron_facility/plant)
-"btY" = (
-/obj/structure/vampdoor/reinf,
-/obj/effect/turf_decal/siding/wood/dark,
-/obj/effect/mapping_helpers/door/access/chantry,
-/obj/effect/mapping_helpers/door/lock,
-/obj/effect/mapping_helpers/door/lock_difficulty/eight,
-/obj/effect/mapping_helpers/door/bash_difficulty/eight,
-/turf/open/floor/plating/concrete,
-/area/vtm/interior/chantry/basement)
 "bug" = (
 /obj/structure/lamppost/sidewalk/chinese{
 	dir = 8
@@ -6818,12 +6803,6 @@
 /obj/structure/flora/bush/fullgrass/style_random,
 /turf/open/misc/dirt,
 /area/vtm/interior/sewer)
-"bOL" = (
-/obj/effect/decal/cleanable/trash{
-	icon_state = "trash5"
-	},
-/turf/open/floor/plating/concrete,
-/area/vtm/interior/sewer)
 "bPB" = (
 /obj/effect/decal/cleanable/cardboard,
 /turf/open/floor/city/gummaguts,
@@ -7782,6 +7761,11 @@
 /obj/machinery/light/directional/south,
 /turf/open/floor/plating/rough,
 /area/vtm/interior)
+"ccu" = (
+/obj/effect/decal/painting/second,
+/obj/effect/decal/wallpaper/red,
+/turf/closed/wall/vampwall/rich/old,
+/area/vtm/interior/chantry/basement)
 "ccx" = (
 /obj/structure/roofstuff/vent_end,
 /mob/living/basic/corvid/crow,
@@ -8303,10 +8287,6 @@
 /obj/structure/flora/darkpack_flower/yerba,
 /turf/open/misc/grass,
 /area/vtm/outside/fishermanswharf)
-"cjz" = (
-/obj/machinery/light/directional/north,
-/turf/open/floor/plating/concrete,
-/area/vtm/interior/sewer)
 "cjC" = (
 /obj/structure/table/optable,
 /obj/effect/mob_spawn/corpse/human/ciz4,
@@ -15334,10 +15314,6 @@
 	dir = 4
 	},
 /area/vtm/interior/giovanni/basement)
-"eeo" = (
-/obj/effect/decal/cleanable/trash,
-/turf/open/floor/plating/concrete,
-/area/vtm/interior/sewer)
 "eew" = (
 /obj/effect/turf_decal/bordur{
 	dir = 1
@@ -23844,16 +23820,6 @@
 "grt" = (
 /turf/open/floor/wood/smooth/old,
 /area/vtm/interior/theatre)
-"gru" = (
-/obj/structure/vampdoor/reinf{
-	dir = 4
-	},
-/obj/effect/mapping_helpers/door/access/chantry,
-/obj/effect/mapping_helpers/door/lock,
-/obj/effect/mapping_helpers/door/bash_difficulty/eight,
-/obj/effect/mapping_helpers/door/lock_difficulty/eight,
-/turf/open/floor/plating/concrete,
-/area/vtm/interior/sewer)
 "grv" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/roadsign/stop,
@@ -27057,11 +27023,6 @@
 /obj/structure/closet/crate/coffin,
 /turf/open/floor/plating/rough/cave,
 /area/vtm/interior)
-"hjs" = (
-/obj/effect/decal/wallpaper/red,
-/obj/effect/decal/painting/second,
-/turf/closed/wall/vampwall/rich/old,
-/area/vtm/interior/chantry/basement)
 "hju" = (
 /obj/structure/table/wood,
 /obj/machinery/light/prince/directional/east,
@@ -60212,10 +60173,6 @@
 /obj/effect/spawner/random/occult/artifact,
 /turf/open/floor/plating/concrete,
 /area/vtm/interior)
-"qjD" = (
-/obj/effect/decal/pallet,
-/turf/open/floor/plating/concrete,
-/area/vtm/interior/sewer)
 "qjR" = (
 /obj/effect/turf_decal/bordur{
 	dir = 4
@@ -68812,12 +68769,6 @@
 /obj/machinery/light/prince/directional/east,
 /turf/open/floor/mineral/plastitanium,
 /area/vtm/interior/tzimisce_manor)
-"suS" = (
-/obj/effect/decal/cleanable/trash{
-	icon_state = "trash30"
-	},
-/turf/open/floor/plating/concrete,
-/area/vtm/interior/sewer)
 "suV" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 1
@@ -135240,11 +135191,11 @@ jgO
 gwI
 aOk
 wTq
-qGw
-qGw
-qGw
-qGw
-hjs
+dvN
+dvN
+dvN
+dvN
+wKm
 sHD
 mia
 xZr
@@ -135497,12 +135448,12 @@ lTU
 lTU
 gwI
 wTq
-qGw
-qjD
-gwI
-bOL
-wKm
-cNm
+dvN
+dvN
+dvN
+dvN
+ccu
+mia
 pHH
 whH
 cKx
@@ -135754,12 +135705,12 @@ lTU
 lTU
 gwI
 wTq
-qGw
-qjD
-gwI
-gwI
-btY
-mia
+dvN
+dvN
+dvN
+dvN
+wKm
+cNm
 nud
 xGl
 xGl
@@ -136011,10 +135962,10 @@ nrH
 lTU
 jPV
 wTq
-qGw
-cjz
-gwI
-gwI
+dvN
+dvN
+dvN
+dvN
 wKm
 sHD
 gZN
@@ -136268,10 +136219,10 @@ lTU
 gwI
 jPV
 wTq
-qGw
-wTq
-gru
-wTq
+dvN
+dvN
+dvN
+dvN
 mCO
 mCO
 hfV
@@ -136525,10 +136476,10 @@ lTU
 gwI
 jPV
 wTq
-qGw
-suS
-gwI
-qjD
+dvN
+dvN
+dvN
+dvN
 wKm
 pYb
 raq
@@ -136782,10 +136733,10 @@ gwI
 hRS
 gwI
 wTq
-qGw
-gwI
-gwI
-gwI
+dvN
+dvN
+dvN
+dvN
 wKm
 rcZ
 raq
@@ -137039,10 +136990,10 @@ gwI
 gwI
 gwI
 wTq
-qGw
-gwI
-gwI
-qjD
+dvN
+dvN
+dvN
+dvN
 wKm
 prX
 raq
@@ -137296,10 +137247,10 @@ gwI
 hRS
 gwI
 wTq
-qGw
-hre
-gwI
-gwI
+dvN
+dvN
+dvN
+dvN
 wKm
 oYZ
 raq
@@ -137553,10 +137504,10 @@ mUa
 hRS
 gwI
 wTq
-qGw
-qjD
-gwI
-gwI
+dvN
+dvN
+dvN
+dvN
 wKm
 tOn
 xND
@@ -137810,10 +137761,10 @@ mUa
 gwI
 gwI
 wTq
-qGw
-qjD
-gwI
-gwI
+dvN
+dvN
+dvN
+dvN
 wKm
 sBp
 raq
@@ -138067,10 +138018,10 @@ eaU
 mUa
 gwI
 wTq
-qGw
-gwI
-eeo
-gwI
+dvN
+dvN
+dvN
+dvN
 wKm
 kcD
 raq
@@ -138324,10 +138275,10 @@ dvz
 mUa
 gwI
 wTq
-qGw
-cjz
-gwI
-gwI
+dvN
+dvN
+dvN
+dvN
 wKm
 nfI
 ggc
@@ -138581,10 +138532,10 @@ dvz
 gwI
 gwI
 wTq
-qGw
-gwI
-gwI
-aBY
+dvN
+dvN
+dvN
+dvN
 wKm
 oyQ
 bgt
@@ -138838,10 +138789,10 @@ mUa
 gwI
 gwI
 wTq
-qGw
-gwI
-gwI
-gwI
+dvN
+dvN
+dvN
+dvN
 mCO
 mCO
 mCO
@@ -139097,7 +139048,7 @@ wTq
 wTq
 wTq
 wTq
-ybX
+wTq
 wTq
 wTq
 wTq
