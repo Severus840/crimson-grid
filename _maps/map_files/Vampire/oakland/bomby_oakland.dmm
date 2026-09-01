@@ -12327,11 +12327,6 @@
 	},
 /turf/open/floor/wood/smooth,
 /area/vtm/interior/clinic)
-"cZh" = (
-/obj/structure/table/wood,
-/obj/item/vampirebook/noddist,
-/turf/open/floor/wood/smooth/old,
-/area/vtm/interior/tzimisce_manor)
 "cZn" = (
 /obj/item/flashlight/lamp/green{
 	pixel_y = 14;
@@ -15216,18 +15211,6 @@
 /obj/machinery/sprinkler,
 /turf/open/floor/carpet/darkpack/old,
 /area/vtm/interior/sewer/nosferatu_bar)
-"dKg" = (
-/obj/effect/mapping_helpers/door/lock,
-/obj/structure/vampdoor/oldwood{
-	dir = 4
-	},
-/obj/effect/mapping_helpers/door/lock_difficulty/four,
-/obj/effect/mapping_helpers/door/access/old_clan_tzimisce,
-/obj/effect/mapping_helpers/door/bash_difficulty/seven,
-/turf/open/floor/plating/rough/cave{
-	icon_state = "stone8"
-	},
-/area/vtm/interior/tzimisce_sanctum)
 "dKi" = (
 /obj/effect/turf_decal/bordur,
 /obj/effect/decal/graffiti/large,
@@ -24047,10 +24030,6 @@
 	},
 /turf/open/misc/dirt,
 /area/vtm/interior/sewer)
-"fQJ" = (
-/obj/machinery/sprinkler,
-/turf/open/floor/city/plating,
-/area/vtm/interior/tzimisce_sanctum)
 "fQK" = (
 /obj/structure/bookcase/random/religion,
 /turf/open/floor/wood/smooth/old,
@@ -38317,7 +38296,7 @@
 	dir = 1
 	},
 /obj/effect/decal/cleanable/dirt/dust,
-/turf/open/floor/city/plating,
+/turf/closed/wall/vampwall/rich/old,
 /area/vtm/interior/tzimisce_sanctum)
 "jrP" = (
 /obj/structure/chair/comfy/darkpack/dark{
@@ -97995,10 +97974,6 @@
 	},
 /turf/open/floor/wood/smooth/old,
 /area/vtm/interior)
-"xSS" = (
-/obj/effect/turf_decal/darkpack/cave,
-/turf/open/floor/city/plating,
-/area/vtm/interior/tzimisce_sanctum)
 "xTa" = (
 /mob/living/carbon/human/npc/police/static,
 /turf/open/floor/plating/concrete,
@@ -102143,11 +102118,11 @@ uvs
 uvs
 uvs
 ivj
-iiT
-iiT
-iiT
-iiT
-iiT
+ivj
+ivj
+ivj
+ivj
+ivj
 ivj
 ivj
 ivj
@@ -102346,13 +102321,13 @@ uvs
 uvs
 uvs
 uvs
-iiT
-iiT
-eWz
-eWz
-eWz
-iiT
-iiT
+ivj
+ivj
+ivj
+ivj
+ivj
+ivj
+ivj
 ivj
 ivj
 ivj
@@ -102550,13 +102525,13 @@ uvs
 uvs
 uvs
 uvs
-iiT
-eWz
-eWz
-eWz
-eWz
-eWz
-iiT
+ivj
+ivj
+ivj
+ivj
+ivj
+ivj
+ivj
 ivj
 ivj
 ivj
@@ -102754,13 +102729,13 @@ uvs
 uvs
 uvs
 uvs
-iiT
-eWz
-eWz
-eWz
-eWz
-eWz
-iiT
+ivj
+ivj
+ivj
+ivj
+ivj
+ivj
+ivj
 ivj
 ivj
 ivj
@@ -102958,13 +102933,13 @@ uvs
 uvs
 uvs
 uvs
-iiT
-eWz
-eWz
-eWz
-eWz
-eWz
-iiT
+ivj
+ivj
+ivj
+ivj
+ivj
+ivj
+ivj
 ivj
 ivj
 ivj
@@ -103162,13 +103137,13 @@ uvs
 uvs
 uvs
 uvs
-iiT
-eWz
-eWz
-eWz
-eWz
-eWz
-iiT
+ivj
+ivj
+ivj
+ivj
+ivj
+ivj
+ivj
 ivj
 ivj
 ivj
@@ -103366,13 +103341,13 @@ uvs
 uvs
 uvs
 uvs
-pDE
-iiT
-eWz
-eWz
-eWz
-iiT
-iiT
+uvs
+ivj
+ivj
+ivj
+ivj
+ivj
+ivj
 ivj
 ivj
 ivj
@@ -103573,7 +103548,7 @@ uvs
 uvs
 iiT
 iiT
-dKg
+iiT
 iiT
 iiT
 iiT
@@ -104182,6 +104157,7 @@ uvs
 dZA
 rwk
 xZq
+iiT
 xZq
 xZq
 xZq
@@ -104194,9 +104170,8 @@ xZq
 xZq
 xZq
 xZq
-xSS
-eWz
-eWz
+xZq
+iiT
 eWz
 khC
 ixq
@@ -104386,7 +104361,6 @@ uvs
 dZA
 klX
 rwk
-fQJ
 xZq
 xZq
 xZq
@@ -104398,9 +104372,10 @@ xZq
 xZq
 xZq
 xZq
-xSS
-eWz
-eWz
+xZq
+xZq
+xZq
+iiT
 eWz
 ejZ
 jSM
@@ -104602,9 +104577,9 @@ xZq
 xZq
 xZq
 xZq
-xSS
-eWz
-eWz
+xZq
+xZq
+iiT
 eWz
 xTJ
 wjz
@@ -148059,7 +148034,7 @@ rIE
 aYZ
 twR
 jbv
-cZh
+duG
 lfj
 nZT
 lMz
