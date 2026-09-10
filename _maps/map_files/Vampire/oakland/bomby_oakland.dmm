@@ -3813,6 +3813,7 @@
 /obj/effect/turf_decal/darkpack/cave{
 	dir = 1
 	},
+/obj/effect/decal/necropolis_gate_decal,
 /turf/open/floor/plating/rough/cave{
 	icon_state = "stone8"
 	},
