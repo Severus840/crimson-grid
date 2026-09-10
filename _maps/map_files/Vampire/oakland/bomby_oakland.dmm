@@ -3809,6 +3809,11 @@
 /obj/item/clothing/suit/chaplainsuit/armor/studentuni,
 /turf/open/floor/city/circled,
 /area/vtm/interior/laundromat)
+"aXK" = (
+/obj/structure/necropolis_gate,
+/obj/effect/turf_decal/siding/dark,
+/turf/open/floor/plating/rough/cave,
+/area/vtm/interior/tzimisce_sanctum)
 "aXM" = (
 /obj/effect/turf_decal/siding/grey,
 /obj/structure/railing/corner,
@@ -28325,7 +28330,9 @@
 "gLh" = (
 /obj/effect/decal/cleanable/blood/gibs/down,
 /obj/effect/grand_rune/finale{
-	name = "Koldunic ritual site"
+	name = "Koldunic ritual site";
+	pixel_x = -28;
+	pixel_y = 16
 	},
 /turf/open/floor/plating/sidewalk/old,
 /area/vtm/interior/tzimisce_sanctum)
@@ -33683,6 +33690,15 @@
 /obj/item/ammo_box/darkpack/c45acp,
 /turf/open/floor/plating/concrete,
 /area/vtm/interior/anarch/basement)
+"ibJ" = (
+/obj/structure/brazier{
+	pixel_x = 0;
+	pixel_y = 8
+	},
+/turf/open/floor/plating/rough/cave{
+	icon_state = "stone8"
+	},
+/area/vtm/interior/tzimisce_sanctum)
 "ibL" = (
 /obj/effect/turf_decal/bordur,
 /obj/effect/landmark/npcbeacon,
@@ -38443,6 +38459,12 @@
 /mob/living/carbon/human/npc/guard,
 /turf/open/floor/plating/sidewalk/poor,
 /area/vtm)
+"jfV" = (
+/obj/fake_sarcophagus/voivode,
+/turf/open/floor/plating/rough/cave{
+	icon_state = "stone8"
+	},
+/area/vtm/interior/tzimisce_sanctum)
 "jfZ" = (
 /obj/structure/table/wood/fancy/red,
 /obj/item/paper_bin{
@@ -84886,6 +84908,11 @@
 /obj/effect/turf_decal/siding/wood/dark,
 /turf/open/floor/wood/smooth/old,
 /area/vtm/interior/anarch)
+"ufd" = (
+/turf/open/floor/plating/rough/cave{
+	icon_state = "stone8"
+	},
+/area/vtm/interior/tzimisce_sanctum)
 "ufe" = (
 /obj/effect/turf_decal/siding/wood/dark/corner{
 	dir = 8
@@ -93448,6 +93475,12 @@
 	},
 /turf/open/water/vamp_sewer,
 /area/vtm/interior/sewer)
+"wnJ" = (
+/obj/structure/closet/crate/coffin,
+/turf/open/floor/plating/rough/cave{
+	icon_state = "stone8"
+	},
+/area/vtm/interior/tzimisce_sanctum)
 "wnK" = (
 /turf/open/floor/iron/stairs,
 /area/vtm/interior/anarch/basement)
@@ -104179,10 +104212,10 @@ eWz
 eWz
 ivj
 ivj
-uvs
-uvs
-uvs
-uvs
+ivj
+ivj
+ivj
+ivj
 uvs
 tuX
 aej
@@ -104383,10 +104416,10 @@ jIf
 eWz
 fXh
 ivj
-uvs
-uvs
-uvs
-uvs
+wnJ
+wnJ
+ivj
+ivj
 uvs
 tuX
 aej
@@ -104587,10 +104620,10 @@ lIK
 aWW
 iur
 ivj
-uvs
-uvs
-uvs
-uvs
+ufd
+ufd
+ibJ
+ivj
 uvs
 tuX
 aej
@@ -104791,10 +104824,10 @@ xkH
 eWz
 rfP
 ivj
-uvs
-uvs
-uvs
-uvs
+ufd
+ufd
+ufd
+ivj
 uvs
 tuX
 aej
@@ -104993,12 +105026,12 @@ hAE
 hvp
 xkH
 eWz
-ecv
+eWz
+aXK
+ufd
+ufd
+jfV
 ivj
-uvs
-uvs
-uvs
-uvs
 uvs
 tuX
 aej
@@ -105197,12 +105230,12 @@ jvl
 jvl
 wme
 eWz
-eWz
+ecv
 ivj
-xyw
-xyw
-xyw
-xyw
+ufd
+ufd
+ufd
+ivj
 xyw
 tuX
 aej
@@ -105403,10 +105436,10 @@ eWz
 auk
 arU
 ivj
-xyw
-xyw
-xyw
-xyw
+ufd
+ufd
+ibJ
+ivj
 xyw
 tuX
 aej
@@ -105607,10 +105640,10 @@ bDB
 fXh
 ivj
 ivj
-xyw
-xyw
-xyw
-xyw
+wnJ
+wnJ
+ivj
+ivj
 xyw
 tuX
 aej
@@ -105810,11 +105843,11 @@ eWz
 rsN
 ivj
 ivj
-xyw
-xyw
-xyw
-xyw
-xyw
+ivj
+ivj
+ivj
+ivj
+ivj
 xyw
 tuX
 aej
