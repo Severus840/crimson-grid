@@ -5628,7 +5628,7 @@
 	dir = 5
 	},
 /turf/open/water/river{
-	color = "#909E09"
+	name = "water"
 	},
 /area/vtm/interior/tzimisce_sanctum)
 "bth" = (
@@ -5864,7 +5864,7 @@
 	dir = 6
 	},
 /turf/open/water/river{
-	color = "#909E09"
+	name = "water"
 	},
 /area/vtm/interior/tzimisce_sanctum)
 "bvK" = (
@@ -21658,9 +21658,7 @@
 	pixel_x = 0;
 	pixel_y = 6
 	},
-/obj/structure/sacrificealtar{
-	icon = 'icons/obj/antags/cult/structures.dmi'
-	},
+/obj/structure/sacrificealtar,
 /turf/open/floor/plating/sidewalk/old,
 /area/vtm/interior/tzimisce_sanctum)
 "fgj" = (
@@ -37342,7 +37340,7 @@
 	},
 /obj/effect/turf_decal/darkpack/cave,
 /turf/open/water/river{
-	color = "#909E09"
+	name = "water"
 	},
 /area/vtm/interior/tzimisce_sanctum)
 "iSw" = (
@@ -39811,7 +39809,7 @@
 	dir = 8
 	},
 /turf/open/water/river{
-	color = "#909E09"
+	name = "water"
 	},
 /area/vtm/interior/tzimisce_sanctum)
 "jvn" = (
@@ -44933,7 +44931,7 @@
 	dir = 8
 	},
 /turf/open/water/river{
-	color = "#909E09"
+	name = "water"
 	},
 /area/vtm/interior/tzimisce_sanctum)
 "kHZ" = (
@@ -49072,7 +49070,7 @@
 	dir = 1
 	},
 /turf/open/water/river{
-	color = "#909E09"
+	name = "water"
 	},
 /area/vtm/interior/tzimisce_sanctum)
 "lIY" = (
@@ -50401,7 +50399,7 @@
 	dir = 10
 	},
 /turf/open/water/river{
-	color = "#909E09"
+	name = "water"
 	},
 /area/vtm/interior/tzimisce_sanctum)
 "lZs" = (
@@ -52613,7 +52611,7 @@
 	dir = 5
 	},
 /turf/open/water/river{
-	color = "#909E09"
+	name = "water"
 	},
 /area/vtm/interior/tzimisce_sanctum)
 "mzu" = (
@@ -54018,7 +54016,7 @@
 	dir = 4
 	},
 /turf/open/water/river{
-	color = "#909E09"
+	name = "water"
 	},
 /area/vtm/interior/tzimisce_sanctum)
 "mRP" = (
@@ -69620,7 +69618,7 @@
 	dir = 4
 	},
 /turf/open/water/river{
-	color = "#909E09"
+	name = "water"
 	},
 /area/vtm/interior/tzimisce_sanctum)
 "qwF" = (
@@ -71502,7 +71500,7 @@
 	dir = 8
 	},
 /turf/open/water/river{
-	color = "#909E09"
+	name = "water"
 	},
 /area/vtm/interior/tzimisce_sanctum)
 "qTn" = (
@@ -87682,7 +87680,7 @@
 	dir = 9
 	},
 /turf/open/water/river{
-	color = "#909E09"
+	name = "water"
 	},
 /area/vtm/interior/tzimisce_sanctum)
 "uNT" = (
@@ -93339,7 +93337,7 @@
 	},
 /obj/effect/turf_decal/darkpack/cave/corner,
 /turf/open/water/river{
-	color = "#909E09"
+	name = "water"
 	},
 /area/vtm/interior/tzimisce_sanctum)
 "wmh" = (
@@ -97718,7 +97716,7 @@
 	dir = 1
 	},
 /turf/open/water/river{
-	color = "#909E09"
+	name = "water"
 	},
 /area/vtm/interior/tzimisce_sanctum)
 "xkK" = (
@@ -100003,7 +100001,7 @@
 	dir = 10
 	},
 /turf/open/water/river{
-	color = "#909E09"
+	name = "water"
 	},
 /area/vtm/interior/tzimisce_sanctum)
 "xMa" = (
@@ -100980,7 +100978,7 @@
 	dir = 10
 	},
 /turf/open/water/river{
-	color = "#909E09"
+	name = "water"
 	},
 /area/vtm/interior/tzimisce_sanctum)
 "xZc" = (
