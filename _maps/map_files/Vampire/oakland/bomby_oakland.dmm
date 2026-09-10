@@ -95726,12 +95726,6 @@
 	},
 /turf/open/floor/carpet/green,
 /area/vtm/interior/apartment)
-"wLP" = (
-/obj/effect/turf_decal/darkpack/cave{
-	dir = 1
-	},
-/turf/open/floor/fakebasalt,
-/area/vtm)
 "wLR" = (
 /obj/structure/bed/dogbed{
 	desc = "A small pet bed.";
@@ -103167,7 +103161,7 @@ uvs
 ivj
 ivj
 ivj
-uvs
+ivj
 uvs
 uvs
 uvs
@@ -103372,9 +103366,9 @@ ivj
 gxJ
 dOv
 ivj
-uvs
-uvs
-uvs
+ivj
+ivj
+ivj
 uvs
 uvs
 uvs
@@ -103578,8 +103572,8 @@ eWz
 bDB
 rfP
 teL
-uvs
-uvs
+ivj
+ivj
 uvs
 uvs
 uvs
@@ -103783,7 +103777,7 @@ lIK
 aWW
 rfP
 pIL
-uvs
+ivj
 uvs
 uvs
 uvs
@@ -103987,7 +103981,7 @@ mzh
 lIK
 eWz
 aWW
-uvs
+ivj
 uvs
 uvs
 uvs
@@ -104191,7 +104185,7 @@ gvK
 xkH
 eWz
 eWz
-uvs
+ivj
 uvs
 uvs
 uvs
@@ -104396,7 +104390,7 @@ xkH
 jIf
 eWz
 fXh
-uvs
+ivj
 uvs
 uvs
 uvs
@@ -104600,7 +104594,7 @@ mzh
 lIK
 aWW
 iur
-uvs
+ivj
 uvs
 uvs
 uvs
@@ -104804,7 +104798,7 @@ pDk
 xkH
 eWz
 rfP
-uvs
+ivj
 uvs
 uvs
 uvs
@@ -105008,7 +105002,7 @@ hvp
 xkH
 eWz
 ecv
-uvs
+ivj
 uvs
 uvs
 uvs
@@ -105212,7 +105206,7 @@ jvl
 wme
 eWz
 eWz
-uvs
+ivj
 uvs
 uvs
 uvs
@@ -105416,7 +105410,7 @@ suD
 eWz
 auk
 arU
-uvs
+ivj
 uvs
 uvs
 uvs
@@ -105618,9 +105612,9 @@ eWz
 eWz
 eWz
 bDB
-wLP
-uvs
-uvs
+fXh
+ivj
+ivj
 uvs
 uvs
 uvs
@@ -105822,7 +105816,7 @@ ekF
 eWz
 eWz
 rsN
-xyw
+ivj
 xyw
 xyw
 uvs
@@ -106026,7 +106020,7 @@ eWz
 auk
 ivj
 ivj
-xyw
+ivj
 xyw
 xyw
 uvs
@@ -106230,7 +106224,7 @@ ivj
 ivj
 ivj
 ivj
-xyw
+ivj
 xyw
 xyw
 uvs
