@@ -44370,6 +44370,10 @@
 	},
 /turf/open/floor/plating/sidewalk/old,
 /area/vtm/outside/park)
+"lqW" = (
+/obj/machinery/sprinkler,
+/turf/open/floor/carpet/darkpack/redsilver,
+/area/vtm/interior/tzimisce_sanctum)
 "lrh" = (
 /obj/structure/closet/crate,
 /obj/item/melee/baton/vamp,
@@ -151847,13 +151851,13 @@ wVS
 cdo
 lqQ
 lqQ
-lqQ
+lqW
 lqQ
 lqQ
 uUn
 aEH
 lqQ
-lqQ
+lqW
 lqQ
 qSd
 nvr

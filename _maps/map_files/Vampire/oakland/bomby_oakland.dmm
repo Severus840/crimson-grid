@@ -3810,9 +3810,12 @@
 /turf/open/floor/city/circled,
 /area/vtm/interior/laundromat)
 "aXK" = (
-/obj/structure/necropolis_gate,
-/obj/effect/turf_decal/siding/dark,
-/turf/open/floor/plating/rough/cave,
+/obj/effect/turf_decal/darkpack/cave{
+	dir = 1
+	},
+/turf/open/floor/plating/rough/cave{
+	icon_state = "stone8"
+	},
 /area/vtm/interior/tzimisce_sanctum)
 "aXM" = (
 /obj/effect/turf_decal/siding/grey,
@@ -24394,6 +24397,7 @@
 /obj/effect/turf_decal/darkpack/rough/corner{
 	dir = 4
 	},
+/obj/machinery/sprinkler,
 /turf/open/floor/city/plating,
 /area/vtm/interior/tzimisce_sanctum)
 "fOX" = (
@@ -60793,6 +60797,10 @@
 /obj/item/storage/ashtray,
 /turf/open/floor/wood/smooth/old,
 /area/vtm/outside/pacificheights/industrial)
+"osy" = (
+/obj/machinery/sprinkler,
+/turf/open/floor/city/plating_mono,
+/area/vtm/interior/tzimisce_sanctum)
 "osz" = (
 /turf/closed/wall/vampwall/junk/alt,
 /area/vtm/interior)
@@ -87431,6 +87439,10 @@
 /obj/effect/spawner/surgery_tray/full/morgue,
 /turf/open/floor/iron/white/textured,
 /area/vtm/interior/endron_facility/restricted)
+"uKJ" = (
+/obj/machinery/sprinkler,
+/turf/open/floor/city/plating,
+/area/vtm/interior/tzimisce_sanctum)
 "uKX" = (
 /obj/effect/turf_decal/siding/wood/dark{
 	dir = 8
@@ -106852,15 +106864,15 @@ xLa
 qow
 nHt
 fGc
+osy
 fGc
 fGc
 fGc
+osy
 fGc
 fGc
 fGc
-fGc
-fGc
-fGc
+osy
 fGc
 nHt
 gri
@@ -107879,7 +107891,7 @@ ivj
 iiT
 nNp
 nHt
-nHt
+uKJ
 nHt
 nHt
 spD
@@ -108695,7 +108707,7 @@ ivj
 iiT
 iiT
 nHt
-nHt
+uKJ
 nHt
 nHt
 iiT
