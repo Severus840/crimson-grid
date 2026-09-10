@@ -18509,7 +18509,6 @@
 /area/vtm/interior/endron_facility/restricted)
 "euB" = (
 /obj/structure/vampfence/rich{
-	dir = 4;
 	pixel_y = 8
 	},
 /turf/open/floor/plating/rough/cave,
