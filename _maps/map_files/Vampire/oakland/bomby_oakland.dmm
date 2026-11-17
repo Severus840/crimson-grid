@@ -1194,7 +1194,6 @@
 /turf/open/floor/plating/rough,
 /area/vtm/interior/sewer)
 "aoA" = (
-/obj/machinery/washing_machine,
 /obj/machinery/light/directional/west,
 /turf/open/floor/city/circled,
 /area/vtm/interior/laundromat)
@@ -33813,6 +33812,10 @@
 /obj/effect/turf_decal/siding/wideplating/red/corner,
 /turf/open/floor/wood/herring,
 /area/vtm/interior/shop)
+"hST" = (
+/obj/machinery/washing_machine,
+/turf/open/floor/city/circled,
+/area/vtm/interior/laundromat)
 "hSU" = (
 /obj/effect/turf_decal/asphaltline/alt{
 	dir = 8;
@@ -173064,7 +173067,7 @@ qCc
 qCc
 gOG
 aoA
-seF
+hST
 seF
 xUq
 pId
